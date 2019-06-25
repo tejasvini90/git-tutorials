@@ -1,2 +1,4 @@
 # git-tutorials
-git-tuts
+git-tutorials
+
+Added some readme text
