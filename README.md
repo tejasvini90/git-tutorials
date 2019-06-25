@@ -1,2 +1,2 @@
-# devopstraining
-devopstraining
+# git-tutorials
+git-tuts
