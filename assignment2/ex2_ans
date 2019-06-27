@@ -1,0 +1,1 @@
+sed 's/~/,/g' Exercise_Part_2.csv|sort -t ',' -r -k 6 > exercise_part_2_ans
